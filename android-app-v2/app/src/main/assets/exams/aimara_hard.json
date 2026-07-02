@@ -1,0 +1,88 @@
+[
+  {
+    "language": "aimara",
+    "level": "hard",
+    "examTitle": "Interrogativos y Gramática",
+    "description": "Examen avanzado sobre pronombres interrogativos y sufijos validadores.",
+    "questions": [
+      {
+        "question": "¿Cómo se dice '¿Dónde?' en Aimara?",
+        "options": [
+          "Kawkana",
+          "Kunasa",
+          "Khiti"
+        ],
+        "correctAnswer": "Kawkana",
+        "explanation": "Kawkana es la palabra interrogativa para preguntar por ubicaciones."
+      },
+      {
+        "question": "¿Cómo se traduce el pronombre interrogativo '¿Quién?'?",
+        "options": [
+          "Khiti",
+          "Kunasa",
+          "Kunjamsa"
+        ],
+        "correctAnswer": "Khiti",
+        "explanation": "Khiti es el término Aimara para preguntar la identidad de personas ('¿Quién?')."
+      },
+      {
+        "question": "¿Qué sufijo se utiliza para afirmar o validar una respuesta (ej. 'Sutajaxa Juan-wa')?",
+        "options": [
+          "-wa",
+          "-ra",
+          "-pi"
+        ],
+        "correctAnswer": "-wa",
+        "explanation": "El sufijo validador/afirmativo '-wa' otorga certeza y conclusión a la frase."
+      }
+    ],
+    "achievement": {
+      "name": "Linguista Colla",
+      "description": "Has superado la evaluación avanzada de gramática Aimara.",
+      "shareMessage": "¡Aprobé el examen avanzado de gramática Aimara!"
+    }
+  },
+  {
+    "language": "aimara",
+    "level": "hard",
+    "examTitle": "Ocupaciones y Oficios",
+    "description": "Vocabulario avanzado sobre trabajos y actividades comunitarias en Aimara.",
+    "questions": [
+      {
+        "question": "¿Qué labor realiza un 'Yatichiri'?",
+        "options": [
+          "Profesor",
+          "Médico",
+          "Agricultor"
+        ],
+        "correctAnswer": "Profesor",
+        "explanation": "Yatichiri (de Yatiña = saber) es la persona que enseña (profesor)."
+      },
+      {
+        "question": "¿Quién es el 'Qulliri' en Aimara?",
+        "options": [
+          "Médico",
+          "Pastor",
+          "Pescador"
+        ],
+        "correctAnswer": "Qulliri",
+        "explanation": "Qulliri (de Qulla = medicina) es el médico o sanador."
+      },
+      {
+        "question": "¿Qué significa la ocupación 'Awatiri'?",
+        "options": [
+          "Pastor",
+          "Constructor",
+          "Juez"
+        ],
+        "correctAnswer": "Awatiri",
+        "explanation": "Awatiri es la persona encargada de guiar y pastorear el ganado."
+      }
+    ],
+    "achievement": {
+      "name": "Líder del Altiplano",
+      "description": "Dominas los conceptos complejos de lugares y profesiones en Aimara.",
+      "shareMessage": "¡Superé el examen avanzado en Aimara en Aru Yachay!"
+    }
+  }
+]

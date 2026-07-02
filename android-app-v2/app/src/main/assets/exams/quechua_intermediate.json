@@ -1,0 +1,88 @@
+[
+  {
+    "language": "quechua",
+    "level": "intermediate",
+    "examTitle": "La Familia y Relaciones",
+    "description": "Pon a prueba tu vocabulario sobre parentescos y relaciones familiares.",
+    "questions": [
+      {
+        "question": "¿Cómo se dice 'Madre' en Quechua?",
+        "options": [
+          "Mama",
+          "Tayta",
+          "Wawqi"
+        ],
+        "correctAnswer": "Mama",
+        "explanation": "Mama es the término quechua para Madre."
+      },
+      {
+        "question": "¿Qué significa la palabra 'Tayta'?",
+        "options": [
+          "Padre",
+          "Hermano",
+          "Hijo"
+        ],
+        "correctAnswer": "Padre",
+        "explanation": "Tayta es el término formal y cariñoso para Padre."
+      },
+      {
+        "question": "¿Cómo llama un varón a su hermano en Quechua?",
+        "options": [
+          "Wawqi",
+          "Tura",
+          "Ñaña"
+        ],
+        "correctAnswer": "Wawqi",
+        "explanation": "Wawqi es la denominación exclusiva que usa un varón para referirse a su hermano."
+      }
+    ],
+    "achievement": {
+      "name": "Hermandad Andina",
+      "description": "Dominas el árbol genealógico en Quechua.",
+      "shareMessage": "¡Superé el examen de parentescos en Quechua!"
+    }
+  },
+  {
+    "language": "quechua",
+    "level": "intermediate",
+    "examTitle": "Alimentos y Campo",
+    "description": "Aprende los nombres de los cultivos e ingredientes más populares.",
+    "questions": [
+      {
+        "question": "¿Qué alimento es 'Papa' en Quechua?",
+        "options": [
+          "Papa",
+          "Sara",
+          "Ch'arki"
+        ],
+        "correctAnswer": "Papa",
+        "explanation": "Papa conserva su nombre original en Quechua."
+      },
+      {
+        "question": "¿Qué animal representa la palabra 'Ukucha'?",
+        "options": [
+          "Ratón",
+          "Perro",
+          "Oveja"
+        ],
+        "correctAnswer": "Ratón",
+        "explanation": "Ukucha es el nombre quechua para el ratón."
+      },
+      {
+        "question": "¿Cómo se dice 'Agua' en Quechua?",
+        "options": [
+          "Yaku",
+          "Unu",
+          "Ambo"
+        ],
+        "correctAnswer": "Yaku",
+        "explanation": "Yaku es el término estándar para Agua (también 'Unu' en ciertas variantes centrales)."
+      }
+    ],
+    "achievement": {
+      "name": "Alimentador Aprendiz",
+      "description": "Completaste el vocabulario de alimentos intermedios.",
+      "shareMessage": "¡Aprobé mi práctica de Alimentos en Quechua!"
+    }
+  }
+]

@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "1017057138451",
+    "firebase_url": "https://ia-aprendizaje-quechua-aimara-default-rtdb.firebaseio.com",
+    "project_id": "ia-aprendizaje-quechua-aimara",
+    "storage_bucket": "ia-aprendizaje-quechua-aimara.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017057138451:android:ac150df2807429ce29ece6",
+        "android_client_info": {
+          "package_name": "com.nescore.aprendizaje_ia_quechua_aimara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017057138451-2tpem6i2gpokior0595bujohh5v0bhlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nescore.aprendizaje_ia_quechua_aimara",
+            "certificate_hash": "2e0e6b64bcf3da5316c8471a3d781b79558c2076"
+          }
+        },
+        {
+          "client_id": "1017057138451-d4ooo6la99mg3fuh68k3danp8dd53oi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nescore.aprendizaje_ia_quechua_aimara",
+            "certificate_hash": "e04f35c56a4ad6e4a82c6d6e308d15519b5e11c5"
+          }
+        },
+        {
+          "client_id": "1017057138451-jfjfq36g1nnbhd2et8f5pvghadebkhna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nescore.aprendizaje_ia_quechua_aimara",
+            "certificate_hash": "e2533ad28de711e75fdf0fc986867b981d2c5139"
+          }
+        },
+        {
+          "client_id": "1017057138451-va739qp8lrh3ivdbqd13cl12q8n6jgd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnA7GXlu_PtI0F7VFNNPNWzIv_Lj9IN5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017057138451-va739qp8lrh3ivdbqd13cl12q8n6jgd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017057138451:android:010927eb5941e15329ece6",
+        "android_client_info": {
+          "package_name": "com.nescore.aprendizaje_ia_quechua_aimara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017057138451-83oc0hj8iqura9ep9fpft75sj5pbp8c3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nescore.aprendizaje_ia_quechua_aimara",
+            "certificate_hash": "e04f35c56a4ad6e4a82c6d6e308d15519b5e11c5"
+          }
+        },
+        {
+          "client_id": "1017057138451-l6dbp104sc3835luvs02ih98iimhdfe6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nescore.aprendizaje_ia_quechua_aimara",
+            "certificate_hash": "e2533ad28de711e75fdf0fc986867b981d2c5139"
+          }
+        },
+        {
+          "client_id": "1017057138451-rcnndrokulrmcng01fl6sebmssuri8q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nescore.aprendizaje_ia_quechua_aimara",
+            "certificate_hash": "2e0e6b64bcf3da5316c8471a3d781b79558c2076"
+          }
+        },
+        {
+          "client_id": "1017057138451-va739qp8lrh3ivdbqd13cl12q8n6jgd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnA7GXlu_PtI0F7VFNNPNWzIv_Lj9IN5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017057138451-va739qp8lrh3ivdbqd13cl12q8n6jgd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

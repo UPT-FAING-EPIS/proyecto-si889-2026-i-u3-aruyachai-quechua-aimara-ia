@@ -1,0 +1,88 @@
+[
+  {
+    "language": "quechua",
+    "level": "easy",
+    "examTitle": "Saludos Básicos",
+    "description": "Comprueba lo aprendido sobre saludos y expresiones simples en Quechua.",
+    "questions": [
+      {
+        "question": "¿Cómo se dice 'Hola' o '¿Cómo estás?' en Quechua?",
+        "options": [
+          "Allianllachu",
+          "Imaynalla",
+          "Rimaykullayki"
+        ],
+        "correctAnswer": "Allianllachu",
+        "explanation": "Allianllachu (o Allillanchu) es la forma clásica de saludar e interrogar por el bienestar de otro."
+      },
+      {
+        "question": "¿Qué significa 'Añay' en Quechua?",
+        "options": [
+          "Gracias",
+          "Por favor",
+          "Hola"
+        ],
+        "correctAnswer": "Gracias",
+        "explanation": "Añay es el término para manifestar agradecimiento o dar las gracias."
+      },
+      {
+        "question": "¿Cómo se dice 'Hasta mañana' en Quechua?",
+        "options": [
+          "Paqarinqkama",
+          "Tupananchiskama",
+          "Allin tuta"
+        ],
+        "correctAnswer": "Paqarinqkama",
+        "explanation": "Paqarinqkama (o Paqarinkama) es la despedida temporal que significa 'Hasta mañana'."
+      }
+    ],
+    "achievement": {
+      "name": "Cortesía Inca",
+      "description": "Dominas los saludos básicos en Quechua.",
+      "shareMessage": "¡Logré aprobar mi examen de Saludos Básicos en Quechua en Aru Yachay!"
+    }
+  },
+  {
+    "language": "quechua",
+    "level": "easy",
+    "examTitle": "Pronombres y Origen",
+    "description": "Práctica simple sobre identidad y procedencia en Quechua.",
+    "questions": [
+      {
+        "question": "¿Cómo se dice el pronombre personal 'Yo' en Quechua?",
+        "options": [
+          "Noqa",
+          "Qan",
+          "Pay"
+        ],
+        "correctAnswer": "Noqa",
+        "explanation": "Noqa es el pronombre de primera persona en singular ('Yo')."
+      },
+      {
+        "question": "¿Qué significa la pregunta '¿Maymantataq kanki?'?",
+        "options": [
+          "¿De dónde eres?",
+          "¿Cómo estás?",
+          "¿Cuál es tu nombre?"
+        ],
+        "correctAnswer": "¿De dónde eres?",
+        "explanation": "El sufijo '-manta' indica origen. Por ello, interroga la procedencia geográfica."
+      },
+      {
+        "question": "¿Cómo se responde correctamente a '¿Imataq sutiyki?' (¿Cómo te llamas?)?",
+        "options": [
+          "Sutiyqa Juanmi",
+          "Noqa kani Juan",
+          "Allillanmi kani"
+        ],
+        "correctAnswer": "Sutiyqa Juanmi",
+        "explanation": "La estructura correcta de respuesta de posesión es: 'Sutiy-qa [Nombre]-mi/n'."
+      }
+    ],
+    "achievement": {
+      "name": "Identidad Básica",
+      "description": "Sabes identificarte y preguntar procedencias en Quechua.",
+      "shareMessage": "¡Ya sé presentarme en Quechua gracias a Aru Yachay!"
+    }
+  }
+]

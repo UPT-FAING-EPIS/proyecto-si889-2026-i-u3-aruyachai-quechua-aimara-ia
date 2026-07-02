@@ -1,0 +1,88 @@
+[
+  {
+    "language": "aimara",
+    "level": "intermediate",
+    "examTitle": "La Familia en Aimara",
+    "description": "Aprende los términos de relaciones y parentesco familiar.",
+    "questions": [
+      {
+        "question": "¿Cómo se dice 'Padre' en Aimara?",
+        "options": [
+          "Awki",
+          "Tayka",
+          "Jila"
+        ],
+        "correctAnswer": "Awki",
+        "explanation": "Awki es la denominación formal para referirse a un Padre."
+      },
+      {
+        "question": "¿Qué significa la palabra 'Tayka'?",
+        "options": [
+          "Madre",
+          "Hermana",
+          "Hija"
+        ],
+        "correctAnswer": "Madre",
+        "explanation": "Tayka es la traducción aymara de Madre."
+      },
+      {
+        "question": "¿Cómo se dice 'Hermano' en Aimara?",
+        "options": [
+          "Jila",
+          "Kullaka",
+          "Wawa"
+        ],
+        "correctAnswer": "Jila",
+        "explanation": "Jila es el término estándar para hermano."
+      }
+    ],
+    "achievement": {
+      "name": "Clan del Altiplano",
+      "description": "Dominas el vocabulario familiar en Aimara.",
+      "shareMessage": "¡Completé mi lección de familia en Aimara!"
+    }
+  },
+  {
+    "language": "aimara",
+    "level": "intermediate",
+    "examTitle": "Animales del Altiplano",
+    "description": "Vocabulario sobre fauna andina en Aimara.",
+    "questions": [
+      {
+        "question": "¿Qué animal es 'Anu' en Aimara?",
+        "options": [
+          "Perro",
+          "Gato",
+          "Zorro"
+        ],
+        "correctAnswer": "Perro",
+        "explanation": "Anu es el vocablo Aimara para perro."
+      },
+      {
+        "question": "¿Qué significa la palabra 'Phisi'?",
+        "options": [
+          "Gato",
+          "Llama",
+          "Vicuña"
+        ],
+        "correctAnswer": "Gato",
+        "explanation": "Phisi es el gato en el Altiplano."
+      },
+      {
+        "question": "¿Qué animal es 'Wari'?",
+        "options": [
+          "Vicuña",
+          "Llama",
+          "Alpaca"
+        ],
+        "correctAnswer": "Vicuña",
+        "explanation": "Wari es la Vicuña en lengua Aimara."
+      }
+    ],
+    "achievement": {
+      "name": "Fauna Andina",
+      "description": "Conoces el nombre de los animales en Aimara.",
+      "shareMessage": "¡Aprobé mi examen de Animales del Altiplano en Aimara!"
+    }
+  }
+]

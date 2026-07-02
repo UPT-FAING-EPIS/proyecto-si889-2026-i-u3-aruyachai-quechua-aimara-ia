@@ -1,0 +1,88 @@
+[
+  {
+    "language": "aimara",
+    "level": "easy",
+    "examTitle": "Saludos y Presentaciones",
+    "description": "Expresiones y saludos comunes en la cultura aymara.",
+    "questions": [
+      {
+        "question": "¿Cómo se dice 'Hola' o '¿Cómo estás?' en Aimara?",
+        "options": [
+          "Kamisaraki",
+          "Waliki",
+          "Yuspagara"
+        ],
+        "correctAnswer": "Kamisaraki",
+        "explanation": "Kamisaraki es el saludo clásico y más extendido en el idioma Aimara."
+      },
+      {
+        "question": "¿Qué significa la respuesta 'Waliki'?",
+        "options": [
+          "Estoy bien",
+          "Gracias",
+          "Adiós"
+        ],
+        "correctAnswer": "Estoy bien",
+        "explanation": "Waliki (o Walikiwa) denota afirmación y bienestar."
+      },
+      {
+        "question": "¿Cómo se dice 'Hasta luego' en Aimara?",
+        "options": [
+          "Jikisiñakama",
+          "Kamisaraki",
+          "Qharürkama"
+        ],
+        "correctAnswer": "Jikisiñakama",
+        "explanation": "Jikisiñakama es la fórmula para despedirse temporalmente."
+      }
+    ],
+    "achievement": {
+      "name": "Cortesía del Altiplano",
+      "description": "Sabes saludar adecuadamente en Aimara.",
+      "shareMessage": "¡Logré aprobar mi examen de Saludos en Aimara en Aru Yachay!"
+    }
+  },
+  {
+    "language": "aimara",
+    "level": "easy",
+    "examTitle": "Pronombres y Preguntas",
+    "description": "Introducción a los pronombres de persona y preguntas básicas en Aimara.",
+    "questions": [
+      {
+        "question": "¿Cómo se dice el pronombre 'Tú' en Aimara?",
+        "options": [
+          "Jumaxa",
+          "Nayaxa",
+          "Jupaxa"
+        ],
+        "correctAnswer": "Jumaxa",
+        "explanation": "Jumaxa (o Juma) representa la segunda persona en singular ('Tú')."
+      },
+      {
+        "question": "¿Qué significa la pregunta '¿Kunasa sutimaxa?'?",
+        "options": [
+          "¿Cuál es tu nombre?",
+          "¿De dónde eres?",
+          "¿Cómo estás?"
+        ],
+        "correctAnswer": "¿Cuál es tu nombre?",
+        "explanation": "Kunasa (¿Qué?) + Sutimaxa (tu nombre) interroga la identidad del usuario."
+      },
+      {
+        "question": "¿Cómo se expresa gratitud o se dice 'Gracias' en Aimara?",
+        "options": [
+          "Yuspagara",
+          "Waliki",
+          "Kamisaraki"
+        ],
+        "correctAnswer": "Yuspagara",
+        "explanation": "Yuspagara es el préstamo adaptado usado tradicionalmente para decir gracias."
+      }
+    ],
+    "achievement": {
+      "name": "Identidad Aymara",
+      "description": "Dominas pronombres y presentaciones básicas.",
+      "shareMessage": "¡Ya sé dar las gracias y presentarme en Aimara!"
+    }
+  }
+]

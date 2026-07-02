@@ -1,0 +1,1454 @@
+{
+  "progreso": {
+    "DDmreHbOjxYtuon3sB8vhAsPL7n1": {
+      "guia": {
+        "quechua": {
+          "colores": {
+            "Rojo": true
+          }
+        }
+      }
+    }
+  },
+  "temas": {
+    "animales": {
+      "items": {
+        "a1": {
+          "aimara": "Anu",
+          "espanol": "Perro",
+          "quechua": "Allqu"
+        },
+        "a10": {
+          "aimara": "Wari",
+          "espanol": "Vicuña",
+          "quechua": "Wik'uña"
+        },
+        "a11": {
+          "aimara": "Qawra",
+          "espanol": "Llama",
+          "quechua": "Llama"
+        },
+        "a12": {
+          "aimara": "Iwija",
+          "espanol": "Oveja",
+          "quechua": "Uwija"
+        },
+        "a13": {
+          "aimara": "Achaku",
+          "espanol": "Ratón",
+          "quechua": "Ukucha"
+        },
+        "a14": {
+          "aimara": "Kawallu",
+          "espanol": "Caballo",
+          "quechua": "Kawallu"
+        },
+        "a15": {
+          "aimara": "Wallpa",
+          "espanol": "Gallina",
+          "quechua": "Wallpa"
+        },
+        "a16": {
+          "aimara": "Jamach'i",
+          "espanol": "Pájaro",
+          "quechua": "P'isqu"
+        },
+        "a17": {
+          "aimara": "Pilpintu",
+          "espanol": "Mariposa",
+          "quechua": "Pilpintu"
+        },
+        "a18": {
+          "aimara": "Khuchi",
+          "espanol": "Cerdo",
+          "quechua": "Khuchi"
+        },
+        "a19": {
+          "aimara": "Pili",
+          "espanol": "Pato",
+          "quechua": "Patu"
+        },
+        "a2": {
+          "aimara": "Phisi",
+          "espanol": "Gato",
+          "quechua": "Misi"
+        },
+        "a20": {
+          "aimara": "Aank'u",
+          "espanol": "Conejo",
+          "quechua": "Qowi"
+        },
+        "a3": {
+          "aimara": "Waka",
+          "espanol": "Vaca",
+          "quechua": "Waka"
+        },
+        "a4": {
+          "aimara": "Mallku",
+          "espanol": "Cóndor",
+          "quechua": "Kuntur"
+        },
+        "a5": {
+          "aimara": "Qamaqi",
+          "espanol": "Zorro",
+          "quechua": "Atuq"
+        },
+        "a6": {
+          "aimara": "Challwa",
+          "espanol": "Pez",
+          "quechua": "Challwa"
+        },
+        "a7": {
+          "aimara": "Asiru",
+          "espanol": "Serpiente",
+          "quechua": "Mach'aqway"
+        },
+        "a8": {
+          "aimara": "K'usillu",
+          "espanol": "Mono",
+          "quechua": "K'usillu"
+        },
+        "a9": {
+          "aimara": "Allpaqa",
+          "espanol": "Alpaca",
+          "quechua": "Allpaqa"
+        }
+      }
+    },
+    "colores": {
+      "items": {
+        "c1": {
+          "aimara": "Wila",
+          "espanol": "Rojo",
+          "quechua": "Puka"
+        },
+        "c10": {
+          "aimara": "Janq'u larama",
+          "espanol": "Celeste",
+          "quechua": "Yuraq anqas"
+        },
+        "c11": {
+          "aimara": "Ch'umpi",
+          "espanol": "Marrón",
+          "quechua": "Ch'umpi"
+        },
+        "c12": {
+          "aimara": "Janq'u wila",
+          "espanol": "Rosado",
+          "quechua": "Qamya puka"
+        },
+        "c13": {
+          "aimara": "Qullqi llimp'i",
+          "espanol": "Plateado",
+          "quechua": "Qullqirara"
+        },
+        "c14": {
+          "aimara": "Quri",
+          "espanol": "Dorado",
+          "quechua": "Quri"
+        },
+        "c15": {
+          "aimara": "Larama",
+          "espanol": "Turquesa",
+          "quechua": "Qhusi"
+        },
+        "c16": {
+          "aimara": "Kulli",
+          "espanol": "Violeta",
+          "quechua": "Sani"
+        },
+        "c2": {
+          "aimara": "Q'illu",
+          "espanol": "Amarillo",
+          "quechua": "Q'illu"
+        },
+        "c3": {
+          "aimara": "Kulli",
+          "espanol": "Morado",
+          "quechua": "Kulli"
+        },
+        "c4": {
+          "aimara": "Janq'u",
+          "espanol": "Blanco",
+          "quechua": "Yuraq"
+        },
+        "c5": {
+          "aimara": "Ch'iyara",
+          "espanol": "Negro",
+          "quechua": "Yana"
+        },
+        "c6": {
+          "aimara": "Larama",
+          "espanol": "Azul",
+          "quechua": "Anqas"
+        },
+        "c7": {
+          "aimara": "Ch'uxña",
+          "espanol": "Verde",
+          "quechua": "Q'omer"
+        },
+        "c8": {
+          "aimara": "Ch'ixi",
+          "espanol": "Gris",
+          "quechua": "Oqe"
+        },
+        "c9": {
+          "aimara": "Churi",
+          "espanol": "Naranja",
+          "quechua": "Nina puka"
+        }
+      }
+    },
+    "hogar": {
+      "items": {
+        "h1": {
+          "aimara": "Uta",
+          "espanol": "Casa",
+          "quechua": "Wasi"
+        },
+        "h10": {
+          "aimara": "Phuku",
+          "espanol": "Olla",
+          "quechua": "Manka"
+        },
+        "h11": {
+          "aimara": "Wislla",
+          "espanol": "Cuchara",
+          "quechua": "Wislla"
+        },
+        "h12": {
+          "aimara": "Khuchuña",
+          "espanol": "Cuchillo",
+          "quechua": "Kuchuna"
+        },
+        "h13": {
+          "aimara": "Llijlla",
+          "espanol": "Manta",
+          "quechua": "Lliklla"
+        },
+        "h14": {
+          "aimara": "Jawuna",
+          "espanol": "Jabón",
+          "quechua": "Taqsa"
+        },
+        "h15": {
+          "aimara": "Pichana",
+          "espanol": "Escoba",
+          "quechua": "Pichana"
+        },
+        "h16": {
+          "aimara": "Qhana",
+          "espanol": "Luz",
+          "quechua": "K'anchay"
+        },
+        "h17": {
+          "aimara": "Lirpu",
+          "espanol": "Espejo",
+          "quechua": "Rirpu"
+        },
+        "h18": {
+          "aimara": "Isi",
+          "espanol": "Ropa",
+          "quechua": "P'acha"
+        },
+        "h19": {
+          "aimara": "Junt'u uma",
+          "espanol": "Agua caliente",
+          "quechua": "Q'uñi yaku"
+        },
+        "h2": {
+          "aimara": "Punku",
+          "espanol": "Puerta",
+          "quechua": "Punku"
+        },
+        "h20": {
+          "aimara": "Llawi",
+          "espanol": "Llave",
+          "quechua": "Llawi"
+        },
+        "h3": {
+          "aimara": "k'anchira",
+          "espanol": "Ventana",
+          "quechua": "T'uqu"
+        },
+        "h4": {
+          "aimara": "Misa",
+          "espanol": "Mesa",
+          "quechua": "Misa"
+        },
+        "h5": {
+          "aimara": "Silla",
+          "espanol": "Silla",
+          "quechua": "Tiyana"
+        },
+        "h6": {
+          "aimara": "Ikiña",
+          "espanol": "Cama",
+          "quechua": "Kawitu"
+        },
+        "h7": {
+          "aimara": "Phayaña uta",
+          "espanol": "Cocina",
+          "quechua": "Quncha"
+        },
+        "h8": {
+          "aimara": "Chuwa",
+          "espanol": "Plato",
+          "quechua": "P'uku"
+        },
+        "h9": {
+          "aimara": "Qiru",
+          "espanol": "Vaso",
+          "quechua": "Qiru"
+        }
+      }
+    },
+    "naturaleza": {
+      "items": {
+        "nat1": {
+          "aimara": "Inti",
+          "espanol": "Sol",
+          "quechua": "Inti"
+        },
+        "nat10": {
+          "aimara": "Panqara",
+          "espanol": "Flor",
+          "quechua": "T'ika"
+        },
+        "nat11": {
+          "aimara": "Quka",
+          "espanol": "Árbol",
+          "quechua": "Sach'a"
+        },
+        "nat12": {
+          "aimara": "Qala",
+          "espanol": "Piedra",
+          "quechua": "Rumi"
+        },
+        "nat13": {
+          "aimara": "Alax pacha",
+          "espanol": "Cielo",
+          "quechua": "Hanaq pacha"
+        },
+        "nat14": {
+          "aimara": "Qinaya",
+          "espanol": "Nube",
+          "quechua": "Phuyu"
+        },
+        "nat15": {
+          "aimara": "Jach'a quta",
+          "espanol": "Mar",
+          "quechua": "Qucha"
+        },
+        "nat16": {
+          "aimara": "Chullunkaya",
+          "espanol": "Hielo",
+          "quechua": "Rit'i"
+        },
+        "nat17": {
+          "aimara": "Pampa",
+          "espanol": "Campo",
+          "quechua": "Pampa"
+        },
+        "nat18": {
+          "aimara": "Quqa quqa",
+          "espanol": "Bosque",
+          "quechua": "Sach'a sach'a"
+        },
+        "nat19": {
+          "aimara": "Q'ixu q'ixu",
+          "espanol": "Trueno",
+          "quechua": "Illapa"
+        },
+        "nat2": {
+          "aimara": "Phaxsi",
+          "espanol": "Luna",
+          "quechua": "Killa"
+        },
+        "nat20": {
+          "aimara": "Khunu",
+          "espanol": "Nieve",
+          "quechua": "Rit'i"
+        },
+        "nat3": {
+          "aimara": "Warawara",
+          "espanol": "Estrella",
+          "quechua": "Qoyllur"
+        },
+        "nat4": {
+          "aimara": "Laq'a",
+          "espanol": "Tierra",
+          "quechua": "Allpa"
+        },
+        "nat5": {
+          "aimara": "Nina",
+          "espanol": "Fuego",
+          "quechua": "Nina"
+        },
+        "nat6": {
+          "aimara": "Wayra",
+          "espanol": "Viento",
+          "quechua": "Wayra"
+        },
+        "nat7": {
+          "aimara": "Jallu",
+          "espanol": "Lluvia",
+          "quechua": "Para"
+        },
+        "nat8": {
+          "aimara": "Jawira",
+          "espanol": "Río",
+          "quechua": "Mayu"
+        },
+        "nat9": {
+          "aimara": "Qullu",
+          "espanol": "Cerro",
+          "quechua": "Urqu"
+        }
+      }
+    },
+    "numeros": {
+      "items": {
+        "n1": {
+          "aimara": "Maya",
+          "espanol": "Uno",
+          "quechua": "Huk"
+        },
+        "n10": {
+          "aimara": "Tunka",
+          "espanol": "Diez",
+          "quechua": "Chunka"
+        },
+        "n11": {
+          "aimara": "Tunka mayani",
+          "espanol": "Once",
+          "quechua": "Chunka hukniyuq"
+        },
+        "n12": {
+          "aimara": "Tunka payani",
+          "espanol": "Doce",
+          "quechua": "Chunka iskayniyuq"
+        },
+        "n13": {
+          "aimara": "Tunka kimsani",
+          "espanol": "Trece",
+          "quechua": "Chunka kimsayuq"
+        },
+        "n14": {
+          "aimara": "Tunka pusini",
+          "espanol": "Catorce",
+          "quechua": "Chunka tawayuq"
+        },
+        "n15": {
+          "aimara": "Tunka phisqani",
+          "espanol": "Quince",
+          "quechua": "Chunka pichqayuq"
+        },
+        "n16": {
+          "aimara": "Pata tunka",
+          "espanol": "Veinte",
+          "quechua": "Iskay chunka"
+        },
+        "n17": {
+          "aimara": "Kimsa tunka",
+          "espanol": "Treinta",
+          "quechua": "Kimsa chunka"
+        },
+        "n18": {
+          "aimara": "Pusi tunka",
+          "espanol": "Cuarenta",
+          "quechua": "Tawa chunka"
+        },
+        "n19": {
+          "aimara": "Phisqa tunka",
+          "espanol": "Cincuenta",
+          "quechua": "Pichqa chunka"
+        },
+        "n2": {
+          "aimara": "Payi",
+          "espanol": "Dos",
+          "quechua": "Iskay"
+        },
+        "n20": {
+          "aimara": "Pataka",
+          "espanol": "Cien",
+          "quechua": "Pachak"
+        },
+        "n3": {
+          "aimara": "Kimsa",
+          "espanol": "Tres",
+          "quechua": "Kimsa"
+        },
+        "n4": {
+          "aimara": "Pusi",
+          "espanol": "Cuatro",
+          "quechua": "Tawa"
+        },
+        "n5": {
+          "aimara": "Phisqa",
+          "espanol": "Cinco",
+          "quechua": "Pichqa"
+        },
+        "n6": {
+          "aimara": "Soqta",
+          "espanol": "Seis",
+          "quechua": "Suqta"
+        },
+        "n7": {
+          "aimara": "Paqallqo",
+          "espanol": "Siete",
+          "quechua": "Qanchis"
+        },
+        "n8": {
+          "aimara": "Quimsaqallqo",
+          "espanol": "Ocho",
+          "quechua": "Pusaq"
+        },
+        "n9": {
+          "aimara": "Llatunka",
+          "espanol": "Nueve",
+          "quechua": "Isqun"
+        }
+      }
+    },
+    "profesiones": {
+      "items": {
+        "p1": {
+          "aimara": "Yatiqaña uta",
+          "espanol": "Escuela",
+          "quechua": "Yachay wasi"
+        },
+        "p10": {
+          "aimara": "Utachiri",
+          "espanol": "Constructor",
+          "quechua": "Wasi ruwaq"
+        },
+        "p11": {
+          "aimara": "Iglisya",
+          "espanol": "Templo",
+          "quechua": "Waka wasi"
+        },
+        "p12": {
+          "aimara": "Qhathu",
+          "espanol": "Mercado",
+          "quechua": "Qhatu"
+        },
+        "p13": {
+          "aimara": "Qullaña uta",
+          "espanol": "Hospital",
+          "quechua": "Hampi wasi"
+        },
+        "p14": {
+          "aimara": "Thakhi",
+          "espanol": "Camino",
+          "quechua": "Ñan"
+        },
+        "p15": {
+          "aimara": "Jach'a marka",
+          "espanol": "Ciudad",
+          "quechua": "Hatun llaqta"
+        },
+        "p16": {
+          "aimara": "Challwa katuri",
+          "espanol": "Pescador",
+          "quechua": "Challwaq"
+        },
+        "p17": {
+          "aimara": "Awatiri",
+          "espanol": "Pastor",
+          "quechua": "Michiq"
+        },
+        "p18": {
+          "aimara": "Phayiri",
+          "espanol": "Cocinero",
+          "quechua": "Wayq'uq"
+        },
+        "p19": {
+          "aimara": "Sawuri",
+          "espanol": "Tejedor",
+          "quechua": "Awaq"
+        },
+        "p2": {
+          "aimara": "Marka",
+          "espanol": "Pueblo",
+          "quechua": "Llaqta"
+        },
+        "p20": {
+          "aimara": "Jucha t'aqiri ",
+          "espanol": "Juez",
+          "quechua": "Taripaq"
+        },
+        "p3": {
+          "aimara": "Yatichiri",
+          "espanol": "Profesor",
+          "quechua": "Yachachiq"
+        },
+        "p4": {
+          "aimara": "Yatiqiri",
+          "espanol": "Estudiante",
+          "quechua": "Yachaq"
+        },
+        "p5": {
+          "aimara": "Qulliri",
+          "espanol": "Médico",
+          "quechua": "Hampiq"
+        },
+        "p6": {
+          "aimara": "Yapuchiri",
+          "espanol": "Agricultor",
+          "quechua": "Chakra llank'aq"
+        },
+        "p7": {
+          "aimara": "Karpintiru",
+          "espanol": "Carpintero",
+          "quechua": "Llaqllay kamayuq"
+        },
+        "p8": {
+          "aimara": "Palla palla",
+          "espanol": "Policía",
+          "quechua": "Chapaq"
+        },
+        "p9": {
+          "aimara": "Wariri",
+          "espanol": "Cantante",
+          "quechua": "Takiq"
+        }
+      }
+    },
+    "ropa": {
+      "items": {
+        "r1": {
+          "aimara": "Q'aspa",
+          "espanol": "Sombrero",
+          "quechua": "Chuku"
+        },
+        "r10": {
+          "aimara": "Iskhina",
+          "espanol": "Medias",
+          "quechua": "Chankaku"
+        },
+        "r11": {
+          "aimara": "Ystalla",
+          "espanol": "Bolso",
+          "quechua": "Ch'uspa"
+        },
+        "r12": {
+          "aimara": "T'awra",
+          "espanol": "Lana",
+          "quechua": "Millma"
+        },
+        "r13": {
+          "aimara": "Wallqa",
+          "espanol": "Collar",
+          "quechua": "Wallqa"
+        },
+        "r14": {
+          "aimara": "Phaluchi",
+          "espanol": "Pendientes",
+          "quechua": "Phaluchi"
+        },
+        "r15": {
+          "aimara": "Isi",
+          "espanol": "Vestido",
+          "quechua": "Aqsu"
+        },
+        "r16": {
+          "aimara": "Chalina",
+          "espanol": "Bufanda",
+          "quechua": "Kunkallina"
+        },
+        "r17": {
+          "aimara": "Wak'a",
+          "espanol": "Cinturón",
+          "quechua": "Chumpi"
+        },
+        "r18": {
+          "aimara": "Ampara ñukhu",
+          "espanol": "Guantes",
+          "quechua": "Maki churana"
+        },
+        "r19": {
+          "aimara": "Ch'ullu",
+          "espanol": "Gorro",
+          "quechua": "Ch'ullu"
+        },
+        "r2": {
+          "aimara": "Allmilla",
+          "espanol": "Camisa",
+          "quechua": "Kutuna"
+        },
+        "r20": {
+          "aimara": "Awayu",
+          "espanol": "Manta",
+          "quechua": "Lliklla"
+        },
+        "r3": {
+          "aimara": "Pantalu",
+          "espanol": "Pantalón",
+          "quechua": "Wara"
+        },
+        "r4": {
+          "aimara": "Zapatu",
+          "espanol": "Zapato",
+          "quechua": "Sapatu"
+        },
+        "r5": {
+          "aimara": "Pullira",
+          "espanol": "Falda",
+          "quechua": "Aqsu"
+        },
+        "r6": {
+          "aimara": "Punchu",
+          "espanol": "Poncho",
+          "quechua": "Punchu"
+        },
+        "r7": {
+          "aimara": "Hukuta",
+          "espanol": "Sandalias",
+          "quechua": "Ushuta"
+        },
+        "r8": {
+          "aimara": "Wak'a",
+          "espanol": "Faja",
+          "quechua": "Chumpi"
+        },
+        "r9": {
+          "aimara": "Chumpa",
+          "espanol": "Chaqueta",
+          "quechua": "Chumpa"
+        }
+      }
+    },
+    "saludos": {
+      "items": {
+        "s1": {
+          "aimara": "Kamisaraki",
+          "espanol": "Hola",
+          "quechua": "Allinllachu"
+        },
+        "s10": {
+          "aimara": "Sarxañäni",
+          "espanol": "Adiós",
+          "quechua": "Ripusaqña"
+        },
+        "s11": {
+          "aimara": "Munasirakta",
+          "espanol": "Te quiero",
+          "quechua": "Munayki"
+        },
+        "s12": {
+          "aimara": "Waliki uñt'asiñani",
+          "espanol": "Mucho gusto",
+          "quechua": "Kusikuywan"
+        },
+        "s13": {
+          "aimara": "Kunas sutimaxa?",
+          "espanol": "¿Cuál es tu nombre?",
+          "quechua": "Imataq sutiyki?"
+        },
+        "s14": {
+          "aimara": "Nayan sutijaxa...",
+          "espanol": "Mi nombre es...",
+          "quechua": "Sutiyqa..."
+        },
+        "s15": {
+          "aimara": "Jani kuna",
+          "espanol": "De nada",
+          "quechua": "Ima manan"
+        },
+        "s16": {
+          "aimara": "Qharürkama",
+          "espanol": "Hasta mañana",
+          "quechua": "Paqarinkama"
+        },
+        "s17": {
+          "aimara": "Pampachita",
+          "espanol": "Disculpe",
+          "quechua": "Pampachaway"
+        },
+        "s18": {
+          "aimara": "Jisa",
+          "espanol": "Sí",
+          "quechua": "Arí"
+        },
+        "s19": {
+          "aimara": "Janiwa",
+          "espanol": "No",
+          "quechua": "Mana"
+        },
+        "s2": {
+          "aimara": "Waliki purt'antaxa",
+          "espanol": "Bienvenido",
+          "quechua": "Allin hamusqayki"
+        },
+        "s3": {
+          "aimara": "Jikisiñkama",
+          "espanol": "Hasta luego",
+          "quechua": "Tupananchiskama"
+        },
+        "s4": {
+          "aimara": "Yuspagara",
+          "espanol": "Gracias",
+          "quechua": "Añay"
+        },
+        "s5": {
+          "aimara": "Aski urukipanaya",
+          "espanol": "Buenos días",
+          "quechua": "Allin chisi"
+        },
+        "s6": {
+          "aimara": "Aski jayp'ukipanaya",
+          "espanol": "Buenas tardes",
+          "quechua": "Allin sukha"
+        },
+        "s7": {
+          "aimara": "Aski arumakipanaya",
+          "espanol": "Buenas noches",
+          "quechua": "Allin tuta"
+        },
+        "s8": {
+          "aimara": "Kamisarakisma?",
+          "espanol": "¿Cómo estás?",
+          "quechua": "Allillanchu kashanki"
+        },
+        "s9": {
+          "aimara": "Waliki",
+          "espanol": "Estoy bien",
+          "quechua": "Allinllan kashani"
+        }
+      }
+    }
+  },
+  "wordle": {
+    "w1": {
+      "aimara": "Anu",
+      "espanol": "Perro",
+      "id": "w1",
+      "quechua": "Allqu"
+    },
+    "w10": {
+      "aimara": "Laka",
+      "espanol": "Boca",
+      "id": "w10",
+      "quechua": "Simi"
+    },
+    "w11": {
+      "aimara": "Ampara",
+      "espanol": "Mano",
+      "id": "w11",
+      "quechua": "Maki"
+    },
+    "w12": {
+      "aimara": "Kayu",
+      "espanol": "Pie",
+      "id": "w12",
+      "quechua": "Chaki"
+    },
+    "w13": {
+      "aimara": "Challwa",
+      "espanol": "Pez",
+      "id": "w13",
+      "quechua": "Challwa"
+    },
+    "w14": {
+      "aimara": "K'usillu",
+      "espanol": "Mono",
+      "id": "w14",
+      "quechua": "K'usillu"
+    },
+    "w15": {
+      "aimara": "Maya",
+      "espanol": "Uno",
+      "id": "w15",
+      "quechua": "Huk"
+    },
+    "w16": {
+      "aimara": "Paya",
+      "espanol": "Dos",
+      "id": "w16",
+      "quechua": "Iskay"
+    },
+    "w17": {
+      "aimara": "Kimsa",
+      "espanol": "Tres",
+      "id": "w17",
+      "quechua": "Kimsa"
+    },
+    "w18": {
+      "aimara": "Tunka",
+      "espanol": "Diez",
+      "id": "w18",
+      "quechua": "Chunka"
+    },
+    "w19": {
+      "aimara": "Kamisaraki",
+      "espanol": "Hola",
+      "id": "w19",
+      "quechua": "Allinllachu"
+    },
+    "w2": {
+      "aimara": "Misi",
+      "espanol": "Gato",
+      "id": "w2",
+      "quechua": "Misi"
+    },
+    "w20": {
+      "aimara": "Yuspajarapxsma",
+      "espanol": "Gracias",
+      "id": "w20",
+      "quechua": "Añay"
+    },
+    "w3": {
+      "aimara": "Waka",
+      "espanol": "Vaca",
+      "id": "w3",
+      "quechua": "Waka"
+    },
+    "w4": {
+      "aimara": "Kunturi",
+      "espanol": "Cóndor",
+      "id": "w4",
+      "quechua": "Kuntur"
+    },
+    "w5": {
+      "aimara": "Atuku",
+      "espanol": "Zorro",
+      "id": "w5",
+      "quechua": "Atuq"
+    },
+    "w6": {
+      "aimara": "Wila",
+      "espanol": "Rojo",
+      "id": "w6",
+      "quechua": "Puka"
+    },
+    "w7": {
+      "aimara": "Janq'u",
+      "espanol": "Blanco",
+      "id": "w7",
+      "quechua": "Yuraq"
+    },
+    "w8": {
+      "aimara": "Ch'iyara",
+      "espanol": "Negro",
+      "id": "w8",
+      "quechua": "Yana"
+    },
+    "w9": {
+      "aimara": "Uma",
+      "espanol": "Cabeza",
+      "id": "w9",
+      "quechua": "Uma"
+    }
+  },
+  "practicas": {
+    "quechua": {
+      "easy": {
+        "Saludos_Basicos": {
+          "examTitle": "Saludos Básicos",
+          "description": "Comprueba lo aprendido sobre saludos y expresiones simples en Quechua.",
+          "questions": [
+            {
+              "question": "¿Cómo se dice 'Hola' o '¿Cómo estás?' en Quechua?",
+              "options": [
+                "Allianllachu",
+                "Imaynalla",
+                "Rimaykullayki"
+              ],
+              "correctAnswer": "Allianllachu",
+              "explanation": "Allianllachu (o Allillanchu) es la forma clásica de saludar e interrogar por el bienestar de otro."
+            },
+            {
+              "question": "¿Qué significa 'Añay' en Quechua?",
+              "options": [
+                "Gracias",
+                "Por favor",
+                "Hola"
+              ],
+              "correctAnswer": "Gracias",
+              "explanation": "Añay es el término para manifestar agradecimiento o dar las gracias."
+            },
+            {
+              "question": "¿Cómo se dice 'Hasta mañana' en Quechua?",
+              "options": [
+                "Paqarinqkama",
+                "Tupananchiskama",
+                "Allin tuta"
+              ],
+              "correctAnswer": "Paqarinqkama",
+              "explanation": "Paqarinqkama (o Paqarinkama) es la despedida temporal que significa 'Hasta mañana'."
+            }
+          ],
+          "achievement": {
+            "name": "Cortesía Inca",
+            "description": "Dominas los saludos básicos en Quechua.",
+            "shareMessage": "¡Logré aprobar mi examen de Saludos Básicos en Quechua en Aru Yachay!"
+          }
+        },
+        "Pronombres_y_Origen": {
+          "examTitle": "Pronombres y Origen",
+          "description": "Práctica simple sobre identidad y procedencia en Quechua.",
+          "questions": [
+            {
+              "question": "¿Cómo se dice el pronombre personal 'Yo' en Quechua?",
+              "options": [
+                "Noqa",
+                "Qan",
+                "Pay"
+              ],
+              "correctAnswer": "Noqa",
+              "explanation": "Noqa es el pronombre de primera persona en singular ('Yo')."
+            },
+            {
+              "question": "¿Qué significa la pregunta '¿Maymantataq kanki?'?",
+              "options": [
+                "¿De dónde eres?",
+                "¿Cómo estás?",
+                "¿Cuál es tu nombre?"
+              ],
+              "correctAnswer": "¿De dónde eres?",
+              "explanation": "El sufijo '-manta' indica origen. Por ello, interroga la procedencia geográfica."
+            },
+            {
+              "question": "¿Cómo se responde correctamente a '¿Imataq sutiyki?' (¿Cómo te llamas?)?",
+              "options": [
+                "Sutiyqa Juanmi",
+                "Noqa kani Juan",
+                "Allillanmi kani"
+              ],
+              "correctAnswer": "Sutiyqa Juanmi",
+              "explanation": "La estructura correcta de respuesta de posesión es: 'Sutiy-qa [Nombre]-mi/n'."
+            }
+          ],
+          "achievement": {
+            "name": "Identidad Básica",
+            "description": "Sabes identificarte y preguntar procedencias en Quechua.",
+            "shareMessage": "¡Ya sé presentarme en Quechua gracias a Aru Yachay!"
+          }
+        }
+      },
+      "intermediate": {
+        "La_Familia_y_Relaciones": {
+          "examTitle": "La Familia y Relaciones",
+          "description": "Pon a prueba tu vocabulario sobre parentescos y relaciones familiares.",
+          "questions": [
+            {
+              "question": "¿Cómo se dice 'Madre' en Quechua?",
+              "options": [
+                "Mama",
+                "Tayta",
+                "Wawqi"
+              ],
+              "correctAnswer": "Mama",
+              "explanation": "Mama es el término quechua para Madre."
+            },
+            {
+              "question": "¿Qué significa la palabra 'Tayta'?",
+              "options": [
+                "Padre",
+                "Hermano",
+                "Hijo"
+              ],
+              "correctAnswer": "Padre",
+              "explanation": "Tayta es el término formal y cariñoso para Padre."
+            },
+            {
+              "question": "¿Cómo llama un varón a su hermano en Quechua?",
+              "options": [
+                "Wawqi",
+                "Tura",
+                "Ñaña"
+              ],
+              "correctAnswer": "Wawqi",
+              "explanation": "Wawqi es la denominación exclusiva que usa un varón para referirse a su hermano."
+            }
+          ],
+          "achievement": {
+            "name": "Hermandad Andina",
+            "description": "Dominas el árbol genealógico en Quechua.",
+            "shareMessage": "¡Superé el examen de parentescos en Quechua!"
+          }
+        },
+        "Alimentos_y_Campo": {
+          "examTitle": "Alimentos y Campo",
+          "description": "Aprende los nombres de los cultivos e ingredientes más populares.",
+          "questions": [
+            {
+              "question": "¿Qué alimento es 'Papa' en Quechua?",
+              "options": [
+                "Papa",
+                "Sara",
+                "Ch'arki"
+              ],
+              "correctAnswer": "Papa",
+              "explanation": "Papa conserva su nombre original en Quechua."
+            },
+            {
+              "question": "¿Qué animal representa la palabra 'Ukucha'?",
+              "options": [
+                "Ratón",
+                "Perro",
+                "Oveja"
+              ],
+              "correctAnswer": "Ratón",
+              "explanation": "Ukucha es el nombre quechua para el ratón."
+            },
+            {
+              "question": "¿Cómo se dice 'Agua' en Quechua?",
+              "options": [
+                "Yaku",
+                "Unu",
+                "Ambo"
+              ],
+              "correctAnswer": "Yaku",
+              "explanation": "Yaku es el término estándar para Agua (también 'Unu' en ciertas variantes centrales)."
+            }
+          ],
+          "achievement": {
+            "name": "Alimentador Aprendiz",
+            "description": "Completaste el vocabulario de alimentos intermedios.",
+            "shareMessage": "¡Aprobé mi práctica de Alimentos en Quechua!"
+          }
+        }
+      },
+      "hard": {
+        "Gramatica_y_Sufijos": {
+          "examTitle": "Gramática y Sufijos",
+          "description": "Análisis profundo sobre los sufijos validadores y locativos en Quechua.",
+          "questions": [
+            {
+              "question": "¿Qué sufijo se utiliza para formular preguntas que requieren respuesta de Sí/No?",
+              "options": [
+                "-chu",
+                "-mi",
+                "-pi"
+              ],
+              "correctAnswer": "-chu",
+              "explanation": "El sufijo enclítico '-chu' sirve para hacer preguntas cerradas de sí o no."
+            },
+            {
+              "question": "¿Qué sufijo indica origen o procedencia de un lugar (ej. 'de Cusco')?",
+              "options": [
+                "-manta",
+                "-wan",
+                "-pa"
+              ],
+              "correctAnswer": "-manta",
+              "explanation": "El sufijo locativo/ablativo '-manta' significa 'desde' o 'de'."
+            },
+            {
+              "question": "¿Qué significa el sufijo '-pi' en sustantivos?",
+              "options": [
+                "En (locativo)",
+                "Con (comitativo)",
+                "Para (benefactivo)"
+              ],
+              "correctAnswer": "En (locativo)",
+              "explanation": "El sufijo '-pi' es el locativo estático que indica estar 'en' un sitio."
+            }
+          ],
+          "achievement": {
+            "name": "Gramático Imperial",
+            "description": "Has dominado el uso avanzado de sufijos quechuas.",
+            "shareMessage": "¡Aprobé el examen avanzado de sufijos quechuas!"
+          }
+        },
+        "Profesiones_y_Trabajos": {
+          "examTitle": "Profesiones y Trabajos",
+          "description": "Términos complejos sobre cargos y profesiones de la comunidad.",
+          "questions": [
+            {
+              "question": "¿Qué significa la ocupación 'Yachachiq'?",
+              "options": [
+                "Profesor",
+                "Médico",
+                "Juez"
+              ],
+              "correctAnswer": "Profesor",
+              "explanation": "Yachachiq es la persona que enseña (profesor o tutor)."
+            },
+            {
+              "question": "¿Quién es el 'Hampiq' en la comunidad?",
+              "options": [
+                "Médico",
+                "Sacerdote",
+                "Tejedor"
+              ],
+              "correctAnswer": "Médico",
+              "explanation": "Hampiq (de Hampi = medicina) es el médico o sanador."
+            },
+            {
+              "question": "¿Cómo se traduce la ocupación 'Wasi ruwaq'?",
+              "options": [
+                "Constructor de casas",
+                "Cocinero",
+                "Pescador"
+              ],
+              "correctAnswer": "Constructor de casas",
+              "explanation": "Wasi (casa) + Ruwaq (hacedor/constructor) significa constructor de casas."
+            }
+          ],
+          "achievement": {
+            "name": "Sabio de la Comunidad",
+            "description": "Dominas los términos complejos de profesiones en Quechua.",
+            "shareMessage": "¡Superé el examen difícil de Ocupaciones en Quechua!"
+          }
+        }
+      }
+    },
+    "aimara": {
+      "easy": {
+        "Saludos_y_Presentaciones": {
+          "examTitle": "Saludos y Presentaciones",
+          "description": "Expresiones y saludos comunes en la cultura aymara.",
+          "questions": [
+            {
+              "question": "¿Cómo se dice 'Hola' o '¿Cómo estás?' en Aimara?",
+              "options": [
+                "Kamisaraki",
+                "Waliki",
+                "Yuspagara"
+              ],
+              "correctAnswer": "Kamisaraki",
+              "explanation": "Kamisaraki es el saludo clásico y más extendido en el idioma Aimara."
+            },
+            {
+              "question": "¿Qué significa la respuesta 'Waliki'?",
+              "options": [
+                "Estoy bien",
+                "Gracias",
+                "Adiós"
+              ],
+              "correctAnswer": "Estoy bien",
+              "explanation": "Waliki (o Walikiwa) denota afirmación y bienestar."
+            },
+            {
+              "question": "¿Cómo se dice 'Hasta luego' en Aimara?",
+              "options": [
+                "Jikisiñakama",
+                "Kamisaraki",
+                "Qharürkama"
+              ],
+              "correctAnswer": "Jikisiñakama",
+              "explanation": "Jikisiñakama es la fórmula para despedirse temporalmente."
+            }
+          ],
+          "achievement": {
+            "name": "Cortesía del Altiplano",
+            "description": "Sabes saludar adecuadamente en Aimara.",
+            "shareMessage": "¡Logré aprobar mi examen de Saludos en Aimara en Aru Yachay!"
+          }
+        },
+        "Pronombres_y_Preguntas": {
+          "examTitle": "Pronombres y Preguntas",
+          "description": "Introducción a los pronombres de persona y preguntas básicas en Aimara.",
+          "questions": [
+            {
+              "question": "¿Cómo se dice el pronombre 'Tú' en Aimara?",
+              "options": [
+                "Jumaxa",
+                "Nayaxa",
+                "Jupaxa"
+              ],
+              "correctAnswer": "Jumaxa",
+              "explanation": "Jumaxa (o Juma) representa la segunda persona en singular ('Tú')."
+            },
+            {
+              "question": "¿Qué significa la pregunta '¿Kunasa sutimaxa?'?",
+              "options": [
+                "¿Cuál es tu nombre?",
+                "¿De dónde eres?",
+                "¿Cómo estás?"
+              ],
+              "correctAnswer": "¿Cuál es tu nombre?",
+              "explanation": "Kunasa (¿Qué?) + Sutimaxa (tu nombre) interroga la identidad del usuario."
+            },
+            {
+              "question": "¿Cómo se expresa gratitud o se dice 'Gracias' en Aimara?",
+              "options": [
+                "Yuspagara",
+                "Waliki",
+                "Kamisaraki"
+              ],
+              "correctAnswer": "Yuspagara",
+              "explanation": "Yuspagara es el préstamo adaptado usado tradicionalmente para decir gracias."
+            }
+          ],
+          "achievement": {
+            "name": "Identidad Aymara",
+            "description": "Dominas pronombres y presentaciones básicas.",
+            "shareMessage": "¡Ya sé dar las gracias y presentarme en Aimara!"
+          }
+        }
+      },
+      "intermediate": {
+        "La_Familia_en_Aimara": {
+          "examTitle": "La Familia en Aimara",
+          "description": "Aprende los términos de relaciones y parentesco familiar.",
+          "questions": [
+            {
+              "question": "¿Cómo se dice 'Padre' en Aimara?",
+              "options": [
+                "Awki",
+                "Tayka",
+                "Jila"
+              ],
+              "correctAnswer": "Awki",
+              "explanation": "Awki es la denominación formal para referirse a un Padre."
+            },
+            {
+              "question": "¿Qué significa la palabra 'Tayka'?",
+              "options": [
+                "Madre",
+                "Hermana",
+                "Hija"
+              ],
+              "correctAnswer": "Madre",
+              "explanation": "Tayka es la traducción aymara de Madre."
+            },
+            {
+              "question": "¿Cómo se dice 'Hermano' en Aimara?",
+              "options": [
+                "Jila",
+                "Kullaka",
+                "Wawa"
+              ],
+              "correctAnswer": "Jila",
+              "explanation": "Jila es el término estándar para hermano."
+            }
+          ],
+          "achievement": {
+            "name": "Clan del Altiplano",
+            "description": "Dominas el vocabulario familiar en Aimara.",
+            "shareMessage": "¡Completé mi lección de familia en Aimara!"
+          }
+        },
+        "Animales_del_Altiplano": {
+          "examTitle": "Animales del Altiplano",
+          "description": "Vocabulario sobre fauna andina en Aimara.",
+          "questions": [
+            {
+              "question": "¿Qué animal es 'Anu' en Aimara?",
+              "options": [
+                "Perro",
+                "Gato",
+                "Zorro"
+              ],
+              "correctAnswer": "Perro",
+              "explanation": "Anu es el vocablo Aimara para perro."
+            },
+            {
+              "question": "¿Qué significa la palabra 'Phisi'?",
+              "options": [
+                "Gato",
+                "Llama",
+                "Vicuña"
+              ],
+              "correctAnswer": "Gato",
+              "explanation": "Phisi es el gato en el Altiplano."
+            },
+            {
+              "question": "¿Qué animal es 'Wari'?",
+              "options": [
+                "Vicuña",
+                "Llama",
+                "Alpaca"
+              ],
+              "correctAnswer": "Vicuña",
+              "explanation": "Wari es la Vicuña en lengua Aimara."
+            }
+          ],
+          "achievement": {
+            "name": "Fauna Andina",
+            "description": "Conoces el nombre de los animales en Aimara.",
+            "shareMessage": "¡Aprobé mi examen de Animales del Altiplano en Aimara!"
+          }
+        }
+      },
+      "hard": {
+        "Interrogativos_y_Gramatica": {
+          "examTitle": "Interrogativos y Gramática",
+          "description": "Examen avanzado sobre pronombres interrogativos y sufijos validadores.",
+          "questions": [
+            {
+              "question": "¿Cómo se dice '¿Dónde?' en Aimara?",
+              "options": [
+                "Kawkana",
+                "Kunasa",
+                "Khiti"
+              ],
+              "correctAnswer": "Kawkana",
+              "explanation": "Kawkana es la palabra interrogativa para preguntar por ubicaciones."
+            },
+            {
+              "question": "¿Cómo se traduce el pronombre interrogativo '¿Quién?'?",
+              "options": [
+                "Khiti",
+                "Kunasa",
+                "Kunjamsa"
+              ],
+              "correctAnswer": "Khiti",
+              "explanation": "Khiti es el término Aimara para preguntar la identidad de personas ('¿Quién?')."
+            },
+            {
+              "question": "¿Qué sufijo se utiliza para afirmar o validar una respuesta (ej. 'Sutajaxa Juan-wa')?",
+              "options": [
+                "-wa",
+                "-ra",
+                "-pi"
+              ],
+              "correctAnswer": "-wa",
+              "explanation": "El sufijo validador/afirmativo '-wa' otorga certeza y conclusión a la frase."
+            }
+          ],
+          "achievement": {
+            "name": "Linguista Colla",
+            "description": "Has superado la evaluación avanzada de gramática Aimara.",
+            "shareMessage": "¡Aprobé el examen avanzado de gramática Aimara!"
+          }
+        },
+        "Ocupaciones_y_Oficios": {
+          "examTitle": "Ocupaciones y Oficios",
+          "description": "Vocabulario avanzado sobre trabajos y actividades comunitarias en Aimara.",
+          "questions": [
+            {
+              "question": "¿Qué labor realiza un 'Yatichiri'?",
+              "options": [
+                "Profesor",
+                "Médico",
+                "Agricultor"
+              ],
+              "correctAnswer": "Profesor",
+              "explanation": "Yatichiri (de Yatiña = saber) es la persona que enseña (profesor)."
+            },
+            {
+              "question": "¿Quién es el 'Qulliri' en Aimara?",
+              "options": [
+                "Médico",
+                "Pastor",
+                "Pescador"
+              ],
+              "correctAnswer": "Médico",
+              "explanation": "Qulliri (de Qulla = medicina) es el médico o sanador."
+            },
+            {
+              "question": "¿Qué significa la ocupación 'Awatiri'?",
+              "options": [
+                "Pastor",
+                "Constructor",
+                "Juez"
+              ],
+              "correctAnswer": "Pastor",
+              "explanation": "Awatiri es la persona encargada de guiar y pastorear el ganado."
+            }
+          ],
+          "achievement": {
+            "name": "Líder del Altiplano",
+            "description": "Dominas los conceptos complejos de lugares y profesiones en Aimara.",
+            "shareMessage": "¡Superé el examen avanzado en Aimara en Aru Yachay!"
+          }
+        }
+      }
+    }
+  }
+}

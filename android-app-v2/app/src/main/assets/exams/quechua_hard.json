@@ -1,0 +1,88 @@
+[
+  {
+    "language": "quechua",
+    "level": "hard",
+    "examTitle": "Gramática y Sufijos",
+    "description": "Análisis profundo sobre los sufijos validadores y locativos en Quechua.",
+    "questions": [
+      {
+        "question": "¿Qué sufijo se utiliza para formular preguntas que requieren respuesta de Sí/No?",
+        "options": [
+          "-chu",
+          "-mi",
+          "-pi"
+        ],
+        "correctAnswer": "-chu",
+        "explanation": "El sufijo enclítico '-chu' sirve para hacer preguntas cerradas de sí o no."
+      },
+      {
+        "question": "¿Qué sufijo indica origen o procedencia de un lugar (ej. 'de Cusco')?",
+        "options": [
+          "-manta",
+          "-wan",
+          "-pa"
+        ],
+        "correctAnswer": "-manta",
+        "explanation": "El sufijo locativo/ablativo '-manta' significa 'desde' o 'de'."
+      },
+      {
+        "question": "¿Qué significa el sufijo '-pi' en sustantivos?",
+        "options": [
+          "En (locativo)",
+          "Con (comitativo)",
+          "Para (benefactivo)"
+        ],
+        "correctAnswer": "En (locativo)",
+        "explanation": "El sufijo '-pi' es el locativo estático que indica estar 'en' un sitio."
+      }
+    ],
+    "achievement": {
+      "name": "Gramático Imperial",
+      "description": "Has dominado el uso avanzado de sufijos quechuas.",
+      "shareMessage": "¡Aprobé el examen avanzado de sufijos quechuas!"
+    }
+  },
+  {
+    "language": "quechua",
+    "level": "hard",
+    "examTitle": "Profesiones y Trabajos",
+    "description": "Términos complejos sobre cargos y profesiones de la comunidad.",
+    "questions": [
+      {
+        "question": "¿Qué significa la ocupación 'Yachachiq'?",
+        "options": [
+          "Profesor",
+          "Médico",
+          "Juez"
+        ],
+        "correctAnswer": "Profesor",
+        "explanation": "Yachachiq es la persona que enseña (profesor o tutor)."
+      },
+      {
+        "question": "¿Quién es el 'Hampiq' en la comunidad?",
+        "options": [
+          "Médico",
+          "Sacerdote",
+          "Tejedor"
+        ],
+        "correctAnswer": "Médico",
+        "explanation": "Hampiq (de Hampi = medicina) es el médico o sanador."
+      },
+      {
+        "question": "¿Cómo se traduce la ocupación 'Wasi ruwaq'?",
+        "options": [
+          "Constructor de casas",
+          "Cocinero",
+          "Pescador"
+        ],
+        "correctAnswer": "Constructor de casas",
+        "explanation": "Wasi (casa) + Ruwaq (hacedor/constructor) significa constructor de casas."
+      }
+    ],
+    "achievement": {
+      "name": "Sabio de la Comunidad",
+      "description": "Dominas los términos complejos de profesiones en Quechua.",
+      "shareMessage": "¡Superé el examen difícil de Ocupaciones en Quechua!"
+    }
+  }
+]
