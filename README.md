@@ -1,6 +1,7 @@
 # 📱 Sistema móvil con inteligencia artificial para el aprendizaje de quechua y aimara
 
 Video de la App Aru Yachay: https://drive.google.com/file/d/1OVgqt_HrqowAYTsH_m7L9sRa1uoVBE1T/view?usp=sharing
+
 Videos Grabados (30): https://drive.google.com/drive/folders/17EGtXCg0_CD6BoskxZCTsPpq9_fVKJnD?usp=drive_link
 
 Proyecto de desarrollo de software para el autoaprendizaje de las lenguas originarias quechua y aimara en dispositivos móviles Android, integrando servicios de bases de datos en tiempo real y soporte conversacional con modelos de inteligencia artificial.
