@@ -1,5 +1,7 @@
 # 📱 Sistema móvil con inteligencia artificial para el aprendizaje de quechua y aimara
 
+Video: https://drive.google.com/file/d/1OVgqt_HrqowAYTsH_m7L9sRa1uoVBE1T/view?usp=sharing
+
 Proyecto de desarrollo de software para el autoaprendizaje de las lenguas originarias quechua y aimara en dispositivos móviles Android, integrando servicios de bases de datos en tiempo real y soporte conversacional con modelos de inteligencia artificial.
 
 ## 📚 Curso
